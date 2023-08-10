@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hey 👋, je suis Ludovic L. (Alias Yuchima)</h1>
+<p align="center"> 
+    <a href="https://github.com/llvnr"><img alt="Yuchiima" src="https://komarev.com/ghpvc/?username=llvnr"></a>
+    <a href="https://github.com/llvnr?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/llvnr?color=4C1&logo=github"></a>
+    <a href="https://github.com/llvnr?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/llvnr"></a>
+</p> 
 
-<!--
-**llvnr/llvnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+    <a href="https://twitter.com/Yuchiima"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href=" https://discord.gg/EJgeCQZTQb"><img alt="Discord" src="https://img.shields.io/discord/1116026354639577128"></a>
+</p> 
 
-Here are some ideas to get you started:
+<h3 align="center"> 
+Développeur Laravel Web/Web Mobile FullStack - Remote
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+    <a href="mailto:yuchiima@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p> 
