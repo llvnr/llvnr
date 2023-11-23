@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, je suis Ludovic L. <br> (Alias Yuchima)</h1>
+<h1 align="center">Hey 👋, je suis Ludovic L. <br> (Alias LVN)</h1>
 <p align="center"> 
     <a href="https://github.com/llvnr"><img alt="Yuchiima" src="https://komarev.com/ghpvc/?username=llvnr"></a>
     <a href="https://github.com/llvnr?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/llvnr?color=4C1&logo=github"></a>
@@ -11,7 +11,7 @@
 </p> 
 
 <h3 align="center"> 
-Développeur Laravel Web/Web Mobile <br> FullStack - Remote
+Développeur Laravel/VueJS Web/Web Mobile <br> FullStack - Remote
 </h3>
 
 <p align="center"> 
