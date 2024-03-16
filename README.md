@@ -11,9 +11,5 @@
 </p> 
 
 <h3 align="center"> 
-Développeur Laravel/VueJS Web/Web Mobile <br> FullStack - Remote
+Tech recruteur | Apporteur d'affaires | Dev Laravel & VueJS
 </h3>
-
-<p align="center"> 
-    <a href="mailto:yuchiima@gmail.com" target="_blank"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p> 
