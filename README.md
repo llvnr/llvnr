@@ -11,5 +11,5 @@
 </p> 
 
 <h3 align="center"> 
-Tech recruteur | Apporteur d'affaires | Dev Laravel & VueJS
+IndieMaker / SoloPreneur
 </h3>
