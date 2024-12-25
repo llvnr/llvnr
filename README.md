@@ -6,8 +6,7 @@
 </p> 
 
 <p align="center"> 
-    <a href="https://twitter.com/llvnrr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href=" https://discord.gg/EJgeCQZTQb"><img alt="Discord" src="https://img.shields.io/discord/1116026354639577128"></a>
+    <a href="https://discord.gg/V3xdKRtJJZ"><img alt="Discord" src="https://img.shields.io/discord/1116026354639577128"></a>
 </p> 
 
 <h3 align="center"> 
